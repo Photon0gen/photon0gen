@@ -25,6 +25,7 @@ We use labels to categorize the aspect of life that an issue corresponds to:
 Routines
 --------
 
-photon0gen does certain things on a regular basis. These are known as routines. Once a new routine is implemented it should be maintained.
+photon0gen does certain things on a regular basis. These are known as routines. Once a new routine is implemented it should be maintained. Activity related to routines will be tracked via YAML formatted data stored in this repo. Then tests can be run against the ativity logs to determine if the routine is passing or failing.
+
 
 [[Bible Reading Schedule]]
